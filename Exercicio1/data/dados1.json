@@ -1,0 +1,17 @@
+{
+	"estados":
+	[
+		{
+			"id":1,
+			"nome":"Acre"
+		},
+		{
+			"id":2,
+			"nome":"Amapá"
+		},
+		{
+			"id":3,
+			"nome":"Amazonas"
+		}
+	]
+}

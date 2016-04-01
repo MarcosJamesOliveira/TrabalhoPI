@@ -1,0 +1,17 @@
+{
+	"imagens":
+	[
+		{
+			"id":1,
+			"imagem":"img/esquilo.jpg"
+		},
+		{
+			"id":2,
+			"imagem":"img/cachorro.jpg"
+		},
+		{
+			"id":3,
+			"imagem":"img/vestido.jpg"
+		}
+	]
+}

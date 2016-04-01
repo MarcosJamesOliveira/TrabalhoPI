@@ -1,0 +1,29 @@
+{
+	"jogo":
+	[
+		{
+			"id":1,
+			"nome":"FIFA 16",
+			"data":"22 setembro de 2015",
+			"imagem":"img/fifa.jpg",
+			"nota":"O FIFA 16 inova em todo o campo para oferecer uma experiência de futebol equilibrada, autêntica e empolgante que possibilita a você jogar do seu jeito e competir em um nível maior.",
+			"descricao":"Fifa 16 é novo game da EA Sports para PC, PS3, Xbox 360, PS4 e Xbox One. A grande novidade é a presença inédita de seleções femininas no jogo. As atletas da seleção americana, Sydney Leroux, Abby Wambach, Alex Morgan e Megan Rapinoe foram ao estúdio da EA no Canadá participar da captura de movimentos do game. Os 12 times femininos presentes são: Alemanha, Austrália, Brasil, Canadá, China, Espanha, EUA, França, Inglaterra, Itália, México e Suécia. O título, que teve data de lançamento em 22 de setembro, ganhou um trailer de grande repercussão, com narração de Pelé em português. No review de Fifa 16, constata-se que ele traz 'mudanças tímidas' e futebol feminino para tentar se manter no topo do gênero. Além disso, Fifa 16 terá times brasileiros com todos os jogadores autorizados."
+		},
+		{
+			"id":2,
+			"nome":"Resident Evil 6",
+			"data":"22 Outubro de 2012",
+			"imagem":"img/resident.jpg",
+			"nota":"Resident Evil 6, conhecido como Biohazard 6 no Japão, é um jogo de vídeo do género horror dramático/de sobrevivência jogado na terceira pessoa desenvolvido e publicado pela Capcom",
+			"descricao":"A história é contada a partir das perspectivas de Chris Redfield, membro e fundador da BSAA traumatizado por ter falhado em uma missão; Leon S. Kennedy, um sobrevivente de Raccoon City e agente especial do governo; Jake Muller, filho ilegítimo de Albert Wesker e associado de Sherry Birkin; e Ada Wong, uma agente solitária com ligações aos ataques bio-terroristas pela Neo-Umbrella."
+		},
+		{
+			"id":3,
+			"nome":"Far Cry Primal",
+			"data":"23 Fevereiro 2016",
+			"imagem":"img/farcry.jpg",
+			"nota":"Far Cry Primal é um videojogo de ação-aventura na primeira pessoa desenvolvido pela Ubisoft Montreal com a assistência de Ubisoft Toronto, Ubisoft Kiev e Ubisoft Shanghai e publicado pela Ubisoft.",
+			"descricao":"A história de Far Cry Primal acontece no inicio do período Mesolítico, à cerca de 10,000 anos atrás, na Idade da Pedra. Os jogadores controlam Takkar, um caçador que começa sem recursos e armas e que eventualmente irá se tornar no líder de uma tribo."
+		}
+	]
+}

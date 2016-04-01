@@ -1,0 +1,79 @@
+*{
+	/*background-color: rgba(120,6,120,0.1);*/
+	margin: 0;
+	padding: 0;
+	font-family: 'Lobster', cursive;
+}
+.cabecalho{
+	background-color: white;
+	height: 100px;
+	text-align: center;
+}
+.cabecalho > h1{
+	font-size: 46px;
+	padding-top: 20px;
+}
+.conteudo-principal{
+	/*background-color: rgba(120,6,120,0.1);*/
+	/*height: 400px;*/
+	width: 70%;
+	float: left;
+}
+.noticia{
+	/*background-color: rgba(0,255,0,0.3);*/
+	padding: 10px 50px 30px 100px;
+}
+.noticia img{
+	max-width: 800px;
+}
+.noticia h1{
+	font-size: 30px;
+	padding: 20px 0 10px;
+}
+.noticia h6{
+	padding-bottom: 40px;
+}
+.noticia section{
+	text-align: justify;
+}
+.noticia section p{
+	line-height: 1.5;
+	text-indent:40px;
+	padding-bottom: 15px;
+}
+.noticia a{
+	text-decoration: none;
+}
+.links{
+	/*background-color: yellow;*/
+	padding-top: 30px;
+	height: 400px;
+	width: 30%;
+	float: left;
+}
+.links div{
+	text-align: center;
+	padding-top: 20px;
+	width: 33%;
+	height: 50px;
+	background-color: purple;
+	float: left;
+	transition: 1.5s box-shadow;
+}
+.links div:hover{
+	cursor:pointer;
+	box-shadow: 0px 0px 30px #000;
+}
+.rodape-pagina{
+	text-align: center;
+	background-color: blue;
+	height: 200px;
+	clear: both;
+}
+.rodape-pagina p, .rodape-pagina div{
+	padding-bottom: 10px;
+}
+.rodape-pagina a{
+	color: #fff;
+	text-decoration: none;
+}
